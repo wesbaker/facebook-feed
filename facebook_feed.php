@@ -21,8 +21,8 @@ define("IMAGE_CACHE_TIME", 1440);
  * Facebook Feed
  *
  * @version 1.0
- * @author Wes Baker <wes@wesbaker.com>
- * @license MIT License
+ * @author  Wes Baker <wes@wesbaker.com>
+ * @license http://creativecommons.org/licenses/by-nc-sa/3.0/
  */
 class Facebook_feed
 {
